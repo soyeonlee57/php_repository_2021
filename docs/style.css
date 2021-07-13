@@ -30,6 +30,10 @@ body {
   margin-top:150px;
 }
 
+.main > span {
+  font-size: 1.5rem;
+}
+
 section{
   background-image: url(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEpgBj%2Fbtq9ymUdtNP%2FbQY4kSi2BUueIKIFWO6zwk%2Fimg.png);
   height:auto;
@@ -41,4 +45,8 @@ section{
   content:"";
   display:block;
   padding-top:calc(100% / 32 * 9 ); 
+}
+
+section:hover {
+  opacity: 0.5;
 }
