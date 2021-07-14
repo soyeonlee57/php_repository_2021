@@ -17,12 +17,28 @@
   <script src="common.js"></script>
 </head>
 <body>
-  <div class="main">
-    <span>Welcome!
-    I'm Web Designer yeonni </span>
-  <div class="profile">
-    <section class="profile_img"></section>
-  </div>
-  </div>  
-</body>
-</html>
+  <div class="site-wrap">
+    <header class="h-12 bg-pink-100 top-bar">
+      <div class="container flex h-full mx-auto">
+        <a href="./" class="flex items-center px-4 logo">
+        LOGO
+        </a>
+
+        <div class="flex-grow"></div>
+
+        <ul class="flex top-bar_menu-box-1">
+          <li>
+            <a href="./" class="flex items-center h-full px-4">
+              HOME
+            </a>
+          </li>
+          <li>
+            <a href="./" class="flex items-center h-full px-4">
+              Portfolio
+            </a>
+          </li>
+        </ul>
+      </div>
+    </header>
+    
+    <main>
