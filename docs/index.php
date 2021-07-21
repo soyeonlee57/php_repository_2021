@@ -2,17 +2,18 @@
 
 <section class="section-1">
   <div class="container mx-auto">
-  <span>Welcome!
-    I'm Web Designer yeonni </span>
-  <div class="profile">
-    <section class="profile_img"></section>
-  </div>
+  <span style="text-align:center;">
+    <h1>Welcome!</h1>
+    <h1>I'm Web Designer yeonni </h1>
+    </span>
   </div>
 </section>
 
 <section class="section-2">
   <div class="container mx-auto">
-    about ...
+    <span style="text-align:center;">
+      <h1>this is index page</h1>
+    </span>
   </div>
 </section>
     

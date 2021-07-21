@@ -1,12 +1,9 @@
-<?php
-$name = $_GET['name'];
-$age = $_GET['age'];
+<?php require_once "head.php"; ?>
 
-if ( $age < 20 ) {
-  echo "denined!";
-  exit;
-}
-?>
 
-<meta charset="UTF-8">
-HI I'm <?=$name?>, <?=$age?> years old.
+<div style="font-size:3rem; text-align:center;">
+portfolio page
+</div>
+
+
+<?php require_once "foot.php"; ?>

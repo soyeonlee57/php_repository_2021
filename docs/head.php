@@ -28,12 +28,12 @@
 
         <ul class="flex top-bar_menu-box-1">
           <li>
-            <a href="./" class="flex items-center h-full px-4">
-              HOME
+            <a href="aboutyeonni.php" class="flex items-center h-full px-4">
+              About Yeonni
             </a>
           </li>
           <li>
-            <a href="./" class="flex items-center h-full px-4">
+            <a href="test.php" class="flex items-center h-full px-4">
               Portfolio
             </a>
           </li>
