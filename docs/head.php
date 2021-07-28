@@ -21,7 +21,7 @@
     <header class="h-12 bg-pink-100 top-bar">
       <div class="container flex h-full mx-auto">
         <a href="./" class="flex items-center px-4 logo">
-        LOGO
+        yeonni💕
         </a>
 
         <div class="flex-grow"></div>
@@ -33,8 +33,13 @@
             </a>
           </li>
           <li>
-            <a href="test.php" class="flex items-center h-full px-4">
+            <a href="pf.php" class="flex items-center h-full px-4">
               Portfolio
+            </a>
+          </li>
+          <li>
+            <a href="test.php" class="flex items-center h-full px-4">
+              test🥞
             </a>
           </li>
         </ul>
