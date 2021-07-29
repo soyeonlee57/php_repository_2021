@@ -1,3 +1,7 @@
+<?php
+$pageCode = "pf";
+?>
+
 <?php require_once "head.php"; ?>
 
 

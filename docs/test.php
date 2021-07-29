@@ -1,9 +1,13 @@
+<?php
+$pageCode = "test";
+?>
+
 <?php require_once "head.php"; ?>
 
-<div style="margin-left:30px; margin-top:50px;">
+<div style="margin-left:auto; margin-right:auto; margin-top:150px;">
 
 
-<form action="result.php" style=" width: 300px; border:3px dashed lightblue; padding:20px;">
+<form action="result.php" style=" width: 300px; border:3px dashed lightblue; padding:20px; text-align:center;">
 <h1>TEST</h1>
 <div>
   LUCKY🍀 or UNLUCKY💔 ?

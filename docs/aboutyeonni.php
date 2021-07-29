@@ -1,3 +1,8 @@
+<?php
+$pageCode = "aboutMe";
+?>
+
+
 <?php require_once "head.php"; ?>
 
 <section class="section-1">

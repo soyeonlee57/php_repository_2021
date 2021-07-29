@@ -1,3 +1,6 @@
+<?php
+$pageCode = "home";
+?>
 <?php require_once "head.php"; ?>
 
 <section class="section-1">
